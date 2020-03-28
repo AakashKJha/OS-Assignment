@@ -1,3 +1,5 @@
+/*This is the scheduler that uses a preemptive priority scheduling algorithm based on dynamically changing priority with 1 or 2 
+created by Aakash Kumar*/
 #include<stdio.h>
 struct processes
 {
